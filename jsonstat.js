@@ -1,0 +1,1 @@
+JSONstat = Npm.require('jsonstat');
