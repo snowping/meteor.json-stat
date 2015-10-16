@@ -4,7 +4,7 @@ Package.describe({
   name: 'snowping:json-stat',
   version: JSONstatVersion + '_1',
   summary: 'Wrapper for npm module json-stat',
-  git: '',
+  git: 'https://github.com/snowping/meteor.json-stat.git',
   documentation: 'README.md'
 });
 
